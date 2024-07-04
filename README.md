@@ -1,1 +1,1 @@
-Responsive bakery website design using html css and javascript, Responsive website using html css javascript, Website html css, Website html css javascript, Responsive website using html and css, Website using html and css
+Responsive bakery website design using html css and javascript.
